@@ -1,0 +1,10 @@
+some useful URLs:
+    how to install vim go plugins:
+        http://studygolang.com/articles/2927
+        https://github.com/aimin/InstallvimGo
+    how to write go code:
+        https://golang.org/doc/code.html
+
+
+The GOPATH environment variable specifies the location of your workspace.
+An import path is a string that uniquely identifies a package.
