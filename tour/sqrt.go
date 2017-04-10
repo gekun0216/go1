@@ -26,7 +26,6 @@ func _sqrt(x float64) float64 {
 			fmt.Printf("final result is %v\n", z)
 			break
 		}
-
 	}
 	return z
 }
